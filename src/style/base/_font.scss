@@ -1,0 +1,230 @@
+@font-face {
+    font-family: 'zkicon';
+    src: url('./assets/fonts/zkicon.eot?6zjvfd');
+    src: url('./assets/fonts/zkicon.eot?6zjvfd#iefix') format('embedded-opentype'), url('./assets/fonts/zkicon.ttf?6zjvfd') format('truetype'), url('./assets/fonts/zkicon.woff?6zjvfd') format('woff'), url('./assets/fonts/zkicon.svg?6zjvfd#zkicon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+i {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'zkicon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon_add:before {
+    content: "\e900";
+}
+
+.icon_application:before {
+    content: "\e901";
+}
+
+.icon_btn_dissuss:before {
+    content: "\e902";
+}
+
+.icon_btn_note:before {
+    content: "\e903";
+}
+
+.icon_circle:before {
+    content: "\e904";
+}
+
+.icon_class:before {
+    content: "\e905";
+}
+
+.icon_class_search .path1:before {
+    content: "\e906";
+    color: rgb(1, 195, 33);
+    opacity: 0.1;
+}
+
+.icon_class_search .path2:before {
+    content: "\e907";
+    margin-left: -1em;
+    color: rgb(1, 195, 33);
+    opacity: 0.2;
+}
+
+.icon_class_search .path3:before {
+    content: "\e908";
+    margin-left: -1em;
+    color: rgb(1, 195, 33);
+}
+
+.icon_class_search .path4:before {
+    content: "\e909";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+
+.icon_classroom:before {
+    content: "\e90a";
+}
+
+.icon_clock:before {
+    content: "\e90f";
+}
+
+.icon_close:before {
+    content: "\e910";
+}
+
+.icon_closeClass:before {
+    content: "\e911";
+}
+
+.icon_delete:before {
+    content: "\e912";
+}
+
+.icon_discuss:before {
+    content: "\e913";
+}
+
+.icon_down:before {
+    content: "\e914";
+}
+
+.icon_download:before {
+    content: "\e915";
+}
+
+.icon_drop:before {
+    content: "\e916";
+}
+
+.icon_file:before {
+    content: "\e917";
+}
+
+.icon_guanli:before {
+    content: "\e918";
+}
+
+.icon_h_lesson:before {
+    content: "\e919";
+}
+
+.icon_h_live:before {
+    content: "\e91a";
+}
+
+.icon_home:before {
+    content: "\e91b";
+}
+
+.icon_jiaoxue:before {
+    content: "\e91c";
+}
+
+.icon_kecheng:before {
+    content: "\e91d";
+}
+
+.icon_lesson:before {
+    content: "\e91e";
+}
+
+.icon_list:before {
+    content: "\e91f";
+}
+
+.icon_live:before {
+    content: "\e920";
+}
+
+.icon_lubo:before {
+    content: "\e921";
+}
+
+.icon_luke:before {
+    content: "\e922";
+}
+
+.icon_me:before {
+    content: "\e923";
+}
+
+.icon_more:before {
+    content: "\e924";
+}
+
+.icon_newClass:before {
+    content: "\e925";
+}
+
+.icon_news:before {
+    content: "\e926";
+}
+
+.icon_people:before {
+    content: "\e927";
+}
+
+.icon_play:before {
+    content: "\e928";
+}
+
+.icon_quit:before {
+    content: "\e929";
+}
+
+.icon_search:before {
+    content: "\e92a";
+}
+
+.icon_star:before {
+    content: "\e92b";
+}
+
+.icon_student:before {
+    content: "\e92c";
+}
+
+.icon_teacher:before {
+    content: "\e92d";
+}
+
+.icon_upload:before {
+    content: "\e92e";
+}
+
+.icon_user:before {
+    content: "\e92f";
+}
+
+.icon_video:before {
+    content: "\e930";
+}
+
+.icon_view:before {
+    content: "\e931";
+}
+
+.icon_write:before {
+    content: "\e932";
+}
+
+.icon_writeClass:before {
+    content: "\e933";
+}
+
+.icon_X:before {
+    content: "\e934";
+}
+
+.icon_ziyuan:before {
+    content: "\e935";
+}

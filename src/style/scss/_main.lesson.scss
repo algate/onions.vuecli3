@@ -1,0 +1,34 @@
+/*课程中心home*/
+.lesson_main{text-align: center;}
+    .lesson_main_navs{display:inline-block;margin:30px auto;font-size: 0;box-shadow: 0 3px 8px rgba(0,0,0,0.2)}
+        .lesson_main_navs li{height:60px;width:180px;background: #fff;text-align: center;float:left;}
+        .lesson_main_navs li .lesson_nav_a{display: inline-block;padding-top: 10px;color:#808487;}
+        .lesson_main_navs li .lesson_nav_a .marT6{color:#b1b6ba;}
+        .lesson_nav_a span{display: block;}
+        .lesson_main_navs li .router-link-active{position:relative;background:#fff;width:180px;height:60px;top:-6px;padding-top:12px;box-shadow: 0 8px 12px rgba(0,120,180,0.3);color:#1a1a1a;}
+        .lesson_main_navs li:hover .lesson_nav_a{position:relative;background: #fff;width:180px;height:60px;top:-6px;padding-top:12px;box-shadow: 0 8px 12px rgba(0,120,180,0.3);color:#1a1a1a;}
+        .size16{font-size: 16px;}
+        .size12{font-size: 12px;}
+        .marT6{margin-top: 6px;}
+    /*在线课程*/
+    .lesson_online_container{width:900px;margin:0 auto;}
+        .lc_oc_nav_label{background: #fff;padding:30px;}
+            .oc_navl_scl,.oc_navl_tea{width:720px;margin-left:20px;}
+            .oc_navl_scl li,.oc_navl_tea li{float:left;color:#323232;padding:8px 15px;border-radius:15px;margin-bottom: 10px;cursor:pointer;}
+            .oc_navl_scl li:hover,.oc_navl_tea li:hover{
+                background: #cfecff;
+            }
+            .oc_navl_scl .navl_scl_cur,.oc_navl_tea .navl_tea_cur{background: #2dabff;color:#fff;}
+            .navl_btn{background: none;padding:8px;color:#2dabff;float:right;}
+        .lc_oc_screen{margin:20px 0 14px;overflow: hidden;}
+            .oc_screen_if{float:left;margin-top:10px;}
+                .oc_screen_if a{display: inline-block; border-right:1px solid #ccc;padding:0 10px;color:#b1b6ba;}
+                .oc_screen_if a:last-child{border-right:none;}
+                .oc_screen_if .screen_if_cur{font-weight: bold;color:#323232;}
+            .oc_screen_search{float:right;width:288px;}
+        .lc_oc_list{overflow: hidden;}
+            .lc_oc_list li{float:left;}
+            .lc_oc_list li:nth-child(4n){margin-right:0;} .oc_list_img{width:214px;height:120px;padding:4px;background: #fff;}
+                .oc_list_img img{width:214px;height:112px;}
+                .oc_list_info{position:relative;top:-20px;height:48px;background: #fff;border:1px solid #e3e9ee;}
+                .oc_list_info:hover{background: #cfecff;}

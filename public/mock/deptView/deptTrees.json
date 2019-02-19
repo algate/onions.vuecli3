@@ -1,0 +1,2058 @@
+[
+{
+  "id": "1",
+  "title": "西南大学",
+  "attribute": null,
+  "sort": "0",
+  "innerid": null,
+  "cameraNum": null,
+  "classcount": 0,
+  "typeid": null,
+  "nodes": [
+  {
+    "id": "0d1b1a1c9aec4cd889244c76d83a6ce5",
+    "title": "学院首长",
+    "attribute": null,
+    "sort": "1",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": []
+  },
+  {
+    "id": "2692fe80da0c47f7ab46d0213a318254",
+    "title": "测试",
+    "attribute": null,
+    "sort": "2",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "27b0cb7ffe144fa4905290369e4ce57a",
+      "title": "AI智能",
+      "attribute": null,
+      "sort": "0",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "6cc530e80312404d9f5c1876a2b1531e",
+      "title": "智课",
+      "attribute": null,
+      "sort": "2",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "be11a721744b46d3a0fa0e5b166d60c9",
+    "title": "训练部",
+    "attribute": null,
+    "sort": "2",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "2fd81f3c628f4416b7ae0eab676692a4",
+      "title": "办公室",
+      "attribute": null,
+      "sort": "1",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "23a47809bda24330aeac343d4c2c712c",
+      "title": "教务处",
+      "attribute": null,
+      "sort": "2",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "8e113fa6b1144d45af81b930562373d0",
+        "title": "aaa",
+        "attribute": null,
+        "sort": "0",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "20676dc08c394b4c972457b1ee1c4ddc",
+      "title": "教保处",
+      "attribute": null,
+      "sort": "3",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "02ff258f5caf410a997bd09fb8b4467c",
+      "title": "远程和继续教育处",
+      "attribute": null,
+      "sort": "4",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "2478c69b38cd42efaa4ac51de5261709",
+      "title": "图书馆",
+      "attribute": null,
+      "sort": "5",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "704d56317fcd413982780c60974aa2b1",
+      "title": "信息管理中心",
+      "attribute": null,
+      "sort": "6",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "f72812540d544b8594ba6af6e980107d",
+      "title": "军事教育和教学评估研究室",
+      "attribute": null,
+      "sort": "7",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "e561fe33f2324593bc51f21d6156eb06",
+    "title": "政治部",
+    "attribute": null,
+    "sort": "3",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "cdb79ee539ce486588a5e27ed470debb",
+      "title": "组织处",
+      "attribute": null,
+      "sort": "8",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "5138ada13b2b47728b2162708f469926",
+      "title": "干部处",
+      "attribute": null,
+      "sort": "9",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "ecbcb4e5d7e84e82b4f06bd9a5738566",
+      "title": "宣传处",
+      "attribute": null,
+      "sort": "10",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "f03d56f5bfb74862be73fe049f91a5c2",
+      "title": "保卫处",
+      "attribute": null,
+      "sort": "11",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "5101448ac6a04ffaa96aa44db723f401",
+    "title": "院务部",
+    "attribute": null,
+    "sort": "4",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "1ddec840f3334382a428c535f1b3dafb",
+      "title": "警务装备处",
+      "attribute": null,
+      "sort": "12",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "1a88463368cb45489a03da1184cdf9c8",
+      "title": "财务军需处",
+      "attribute": null,
+      "sort": "13",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "a054f1018bd149d1a9c8d60b38b6b034",
+      "title": "营房处",
+      "attribute": null,
+      "sort": "14",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "25fe89b8ff8949e797974b8bdf96aa60",
+      "title": "直工处",
+      "attribute": null,
+      "sort": "15",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "f5b3a4e9a7284ade962aa3f84160eed4",
+      "title": "警勤汽车中队",
+      "attribute": null,
+      "sort": "16",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "555969169f0f485281873cf23f5fc5dd",
+      "title": "通信站",
+      "attribute": null,
+      "sort": "17",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "ddbbd52b50684d968028bc6aee6e1a56",
+      "title": "门诊部",
+      "attribute": null,
+      "sort": "18",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "bfb759729ac44b7db295ae2d1e0a825d",
+    "title": "科研部",
+    "attribute": null,
+    "sort": "5",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "f48e4b45856d49fe8c57493ee1588810",
+      "title": "组织计划处",
+      "attribute": null,
+      "sort": "19",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "beef2f742f214692a77d268f91e98568",
+      "title": "学术成果处",
+      "attribute": null,
+      "sort": "20",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "ee6742bb434d47ba8867f82f0195f195",
+      "title": "期刊编辑部",
+      "attribute": null,
+      "sort": "21",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "251cf5d38242452a9ba1475390f86ff1",
+    "title": "军事教育训练系",
+    "attribute": null,
+    "sort": "6",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "1992702e85ac47ee80a75bd7e5986be0",
+      "title": "军事理论教研室",
+      "attribute": null,
+      "sort": "22",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "436f5c98d86541f4904dd85428411d54",
+      "title": "共同科目第一教研室",
+      "attribute": null,
+      "sort": "23",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "60ce9b6d621443a287311d34f44b249f",
+      "title": "共同科目第二教研室",
+      "attribute": null,
+      "sort": "24",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "136e72a9b04643d9a5dfa107f3dd6d37",
+      "title": "军事体育教研室",
+      "attribute": null,
+      "sort": "25",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "38c7e0613c6c45c8aed7c4f8918be76b",
+      "title": "战术基础教研室",
+      "attribute": null,
+      "sort": "26",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "fb3871665d9543cf8a97507793f1e476",
+      "title": "勤务基础教研室",
+      "attribute": null,
+      "sort": "27",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "a83803a36f55489daf7950fdd4849d9a",
+    "title": "政治法律系",
+    "attribute": null,
+    "sort": "7",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "93a9765bd7a94f91896f7bdbf2c99c2d",
+      "title": "政治理论教研室",
+      "attribute": null,
+      "sort": "28",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "59a089d74db7454594ddb982c58656c2",
+      "title": "政治工作教研室",
+      "attribute": null,
+      "sort": "29",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "cbff4af296ae4f6eb5bad66cda60b104",
+      "title": "法学基础教研室",
+      "attribute": null,
+      "sort": "30",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "3e4ed4e1af0648fa869e44b2128c0a79",
+      "title": "军事法学教研室",
+      "attribute": null,
+      "sort": "31",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "9cd5b6c5a9b74fa582c87089d48efeaa",
+      "title": "军事心理学教研室",
+      "attribute": null,
+      "sort": "32",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "0893d65964c84b1eab3239b9f10c2fcf",
+      "title": "心理学与法学实验室",
+      "attribute": null,
+      "sort": "33",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "76edfa10040a4551b98df537fda69d56",
+    "title": "数学与物理学系",
+    "attribute": null,
+    "sort": "8",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "300f9ac4d9484a09ad14209d3da53b66",
+      "title": "高等数学教研室",
+      "attribute": null,
+      "sort": "34",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "fdb59b952d394a2c8d86fe28f20a9534",
+      "title": "应用数学教研室",
+      "attribute": null,
+      "sort": "35",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "9feba394687c4b798fd35fdf78c7f4af",
+      "title": "运筹学教研室",
+      "attribute": null,
+      "sort": "36",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "33de81284f4945e89da2b36a325e9efe",
+      "title": "基础物理学教研室",
+      "attribute": null,
+      "sort": "37",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "a3d99798f43b41d088a5dfaa483c176a",
+      "title": "应用力学教研室",
+      "attribute": null,
+      "sort": "38",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "e839dbf1814849f488d478970f7e721d",
+      "title": "光信息科学与技术教研室",
+      "attribute": null,
+      "sort": "39",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "27f83fe474a0465db0aaaec06a8bef45",
+      "title": "数学与物理学实验室",
+      "attribute": null,
+      "sort": "40",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "f4f12fb881104c9b9bf007fb13577214",
+    "title": "电子技术系",
+    "attribute": null,
+    "sort": "9",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "42228686c2a44a209962941d5cce3dca",
+      "title": "电子技术基础教研室",
+      "attribute": null,
+      "sort": "41",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "29a9bff0d4ea4714a3b62257d76df848",
+      "title": "电子设计教研室",
+      "attribute": null,
+      "sort": "42",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "196faa967a1d495fb256d4adef743cd0",
+      "title": "单片微机教研室",
+      "attribute": null,
+      "sort": "43",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "7f05a8d11e14488d94cb0bf96adbf34d",
+      "title": "计算机基础教研室",
+      "attribute": null,
+      "sort": "44",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "3cf8ff5b53dc4268a5f4afbbcd4c92cc",
+      "title": "计算机应用教研室",
+      "attribute": null,
+      "sort": "45",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "099566d32c1b4790b26b96723e810060",
+      "title": "电子与计算机技术实验室",
+      "attribute": null,
+      "sort": "46",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "800ad31509ca4823b3ffcb8dd7fbedd1",
+    "title": "信息工程系",
+    "attribute": null,
+    "sort": "10",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "7322823cec324ae39c717a53c23199c8",
+      "title": "信息系统与安全教研室",
+      "attribute": null,
+      "sort": "47",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "30cc558281e947d9a291893c0efd6c5d",
+      "title": "网络工程教研室",
+      "attribute": null,
+      "sort": "48",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "a85b10f0069b446489dc6bb79db76885",
+      "title": "通信与信息技术教研室",
+      "attribute": null,
+      "sort": "49",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "f32f0606e5a641c78f5eb7863eeed432",
+      "title": "智能信息处理教研室",
+      "attribute": null,
+      "sort": "50",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "be850a66790c4628826870bf038ccae8",
+      "title": "决策与指挥教研室",
+      "attribute": null,
+      "sort": "51",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "f0f1f539672d4feaac01eab7006a6f76",
+    "title": "管理科学与工程系",
+    "attribute": null,
+    "sort": "11",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "0d838cb01c154d3386fe75f9a0f2718d",
+      "title": "管理理论教研室",
+      "attribute": null,
+      "sort": "52",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "b605234413c1442396f396e6859cca96",
+      "title": "部队管理教研室",
+      "attribute": null,
+      "sort": "53",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "4d09ecddb08a4af9989182c116277dd8",
+      "title": "工程管理教研室",
+      "attribute": null,
+      "sort": "54",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "c8d3118750fe4dbea06aae88cde9e77d",
+      "title": "信息管理教研室",
+      "attribute": null,
+      "sort": "55",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "d83f1d544e5e4b6f86d2a073591cacad",
+      "title": "装备管理教研室",
+      "attribute": null,
+      "sort": "56",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "ee0572dc82a64ba9b7482c5f166ccadb",
+    "title": "人文社科系",
+    "attribute": null,
+    "sort": "12",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "981731dac0014619a6ba27d761d6396a",
+      "title": "哲学教研室",
+      "attribute": null,
+      "sort": "57",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "bb195814664d464e95c84b51036d0a98",
+      "title": "历史学教研室",
+      "attribute": null,
+      "sort": "58",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "44cd5d71dff04868af0258212dcdf791",
+      "title": "中国语言文学教研室",
+      "attribute": null,
+      "sort": "59",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "b9fc19b4a31c412ba838a576180556be",
+      "title": "大学语文教研室",
+      "attribute": null,
+      "sort": "60",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "4f74ecf0e7724d00b7aa8c63006321a6",
+      "title": "应用与写作教研室",
+      "attribute": null,
+      "sort": "61",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "930fedb1c2264760b2f5bd7a8e48dd7b",
+      "title": "外语第一教研室",
+      "attribute": null,
+      "sort": "62",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    },
+    {
+      "id": "a0f9d5632681444cba20aca7aad3a31e",
+      "title": "外语第二教研室",
+      "attribute": null,
+      "sort": "63",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  },
+  {
+    "id": "0b544dc2cbe743f58b11be18a095a49d",
+    "title": "学员1旅",
+    "attribute": null,
+    "sort": "13",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "cbe808eb505c45b8b305ea5815de71fa",
+      "title": "1营",
+      "attribute": null,
+      "sort": "64",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "8cdc62f120fe48499653d98b2b5abec1",
+        "title": "1连",
+        "attribute": null,
+        "sort": "1",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "01093b383f254e6c89fd7ed94225a989",
+        "title": "2连",
+        "attribute": null,
+        "sort": "2",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "6c678b592bde40bea7dc113fe9e77c5c",
+        "title": "3连",
+        "attribute": null,
+        "sort": "3",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "94b3d9fc6f294670ad87476675a762c9",
+      "title": "2营",
+      "attribute": null,
+      "sort": "65",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "f067ad459d7c4e5eae1c50e3a8f86422",
+        "title": "4连",
+        "attribute": null,
+        "sort": "4",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "040a56f42a304ea8a05050520a8fd6ff",
+        "title": "5连",
+        "attribute": null,
+        "sort": "5",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "da1b7688b6144869aeb66206a8eda7f3",
+        "title": "6连",
+        "attribute": null,
+        "sort": "6",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "df8b4b324e2240ffb94f1e0670d78622",
+      "title": "3营",
+      "attribute": null,
+      "sort": "66",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "9be1d2bcfd8841e0affad8e620afdbed",
+        "title": "7连",
+        "attribute": null,
+        "sort": "7",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "d8b80fa52a764ce7bf591eb4edebc6c3",
+        "title": "8连",
+        "attribute": null,
+        "sort": "8",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "488e7f2b46524c0280223f8c1c916319",
+        "title": "9连",
+        "attribute": null,
+        "sort": "9",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "0d677817c9424037ab4507b4aa7ec24e",
+      "title": "4营",
+      "attribute": null,
+      "sort": "67",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "448aef26431d4d2785e65eae90a00056",
+        "title": "10连",
+        "attribute": null,
+        "sort": "10",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "460b43bc48274afd850e7298f913d88a",
+        "title": "11连",
+        "attribute": null,
+        "sort": "11",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "3e76b98848114b58b5aaf5999b0e9195",
+        "title": "12连",
+        "attribute": null,
+        "sort": "12",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    }]
+  },
+  {
+    "id": "3a45fcce8062459a889be1cf350c063e",
+    "title": "学员2旅",
+    "attribute": null,
+    "sort": "14",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "3d183c1f52fb4265a6c484daa35c1035",
+      "title": "5营",
+      "attribute": null,
+      "sort": "68",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "a0f0b6b50f0b401b855c1f54c241f30f",
+        "title": "13连",
+        "attribute": null,
+        "sort": "12",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "65e43fa10b144eaa9b251269b1d731f2",
+        "title": "14连",
+        "attribute": null,
+        "sort": "13",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "ebb4c1ef2c2d4dc386b6216365ca92d6",
+        "title": "15连",
+        "attribute": null,
+        "sort": "14",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "65c4f9a1022a4b328b469ead2e722b68",
+      "title": "6营",
+      "attribute": null,
+      "sort": "69",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "11cad8bf01444e66b6614827f88b0e86",
+        "title": "16连",
+        "attribute": null,
+        "sort": "14",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "6258a0b004d34413af1af782d358b40d",
+        "title": "17连",
+        "attribute": null,
+        "sort": "15",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "f0b36910c77c474abc794512e96e76e8",
+        "title": "18连",
+        "attribute": null,
+        "sort": "16",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "2de12c4bd5714ed89a1091a282b5a173",
+      "title": "7营",
+      "attribute": null,
+      "sort": "70",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "575466a572ca45bcbf62a92c5d79042c",
+        "title": "19连",
+        "attribute": null,
+        "sort": "17",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "42941b50ee744a97a37fd86d01f57c2e",
+        "title": "20连",
+        "attribute": null,
+        "sort": "18",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "2868e2fb50694357aca7b6d35153c0e1",
+        "title": "21连",
+        "attribute": null,
+        "sort": "19",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "ca89ec9a2ef040f4ae6bcc205df2ca7a",
+      "title": "8营",
+      "attribute": null,
+      "sort": "71",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "6f4a9fa281c64f06b23638a5e1a06110",
+        "title": "22连",
+        "attribute": null,
+        "sort": "19",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "d22c460222c94e7e8278cb31984d808c",
+        "title": "23连",
+        "attribute": null,
+        "sort": "20",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "058ab876369044abaed440913fee0682",
+        "title": "24连",
+        "attribute": null,
+        "sort": "21",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    }]
+  },
+  {
+    "id": "df152caf8fd54df391423fb5479e574c",
+    "title": "学员3旅",
+    "attribute": null,
+    "sort": "15",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "a86cd7bcf25c40738146cd669dc8b9bf",
+      "title": "9营",
+      "attribute": null,
+      "sort": "72",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "ef60268505bb4952b321ed6e87df8822",
+        "title": "25连",
+        "attribute": null,
+        "sort": "22",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "c6567b0b9772494cb02c7cf1428f97a4",
+        "title": "26连",
+        "attribute": null,
+        "sort": "23",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "53ff2865aa1b4c7cb296155495d66c76",
+        "title": "27连",
+        "attribute": null,
+        "sort": "24",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "772e69d09ecf43f49a4b8e1af0c39a11",
+      "title": "10营",
+      "attribute": null,
+      "sort": "73",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "eab331d29b034cd1812ea5cc68a34042",
+        "title": "28连",
+        "attribute": null,
+        "sort": "24",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "9f4f93a12c264fec85ea7cb499c93e25",
+        "title": "29连",
+        "attribute": null,
+        "sort": "25",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "c4e7c6ee984044ae9c127e3ad70f1842",
+        "title": "30连",
+        "attribute": null,
+        "sort": "26",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "eb0cfd8b31dd4cecab6112e181c04548",
+      "title": "11营",
+      "attribute": null,
+      "sort": "74",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "3308d3bcc57f44fbb8b9edf457a2c76f",
+        "title": "31连",
+        "attribute": null,
+        "sort": "27",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "96ccbd9b423e420a9ca0cd88a5fbd2b9",
+        "title": "32连",
+        "attribute": null,
+        "sort": "28",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "825d751f5a3945b8a481738144de60c7",
+        "title": "33连",
+        "attribute": null,
+        "sort": "29",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "41c08ac01b4040cd8e1e54c82b1a1f35",
+      "title": "12营",
+      "attribute": null,
+      "sort": "75",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "127a6efb7353431aa838919be0f26db1",
+        "title": "34连",
+        "attribute": null,
+        "sort": "30",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "65ef1ef70f9449aba1d1fcdde98d90a3",
+        "title": "35连",
+        "attribute": null,
+        "sort": "31",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "a84b67c45cc149e39a1f620f33d0aa69",
+        "title": "36连",
+        "attribute": null,
+        "sort": "32",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    }]
+  },
+  {
+    "id": "0b94eeda8d90447ba000595a6669c942",
+    "title": "学员4旅",
+    "attribute": null,
+    "sort": "16",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "312b586b4a3f4029a3b2a0e7defe7f9e",
+      "title": "13营",
+      "attribute": null,
+      "sort": "76",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "9396826412244779a7b971e53c07c7b8",
+        "title": "37连",
+        "attribute": null,
+        "sort": "32",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "0be99b13008641c9be49a5eec3eac0a0",
+        "title": "38连",
+        "attribute": null,
+        "sort": "33",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "f0bbff7dc7e447fea65f9f9f4edd67a7",
+        "title": "39连",
+        "attribute": null,
+        "sort": "34",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "78dd3d56c7b64d62be106ac76b4eaf5f",
+        "title": "40连",
+        "attribute": null,
+        "sort": "35",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "47d28decf88744babc204a94022a0e59",
+      "title": "14营",
+      "attribute": null,
+      "sort": "77",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "28b4e0e5a88b4415b353de9606a6143e",
+        "title": "41连",
+        "attribute": null,
+        "sort": "36",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "b341bb4e2c1f4b5ca205fe078d29ccfd",
+        "title": "42连",
+        "attribute": null,
+        "sort": "37",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "2a43f61dd38d41c7a9ed84e590180ec4",
+        "title": "43连",
+        "attribute": null,
+        "sort": "38",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "99634f8892174cea9ca0523dc24a9dc5",
+      "title": "15营",
+      "attribute": null,
+      "sort": "78",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "612ba26159684440b311b698fb3622d8",
+        "title": "44连",
+        "attribute": null,
+        "sort": "39",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "eb712ec6a70b4291b4dcf1b21747a83b",
+        "title": "45连",
+        "attribute": null,
+        "sort": "40",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "1cbf8e9ff4994a4692123663a322fc58",
+        "title": "46连",
+        "attribute": null,
+        "sort": "41",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    }]
+  },
+  {
+    "id": "ec77bb1f27bf459cbb20777d2c38630d",
+    "title": "学员5旅",
+    "attribute": null,
+    "sort": "17",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "ece29e0b50904f05a44f11f8cba1c3da",
+      "title": "16营",
+      "attribute": null,
+      "sort": "79",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "8fe7a2e437c24057850f13b3d40a3c7f",
+        "title": "47连",
+        "attribute": null,
+        "sort": "42",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "15a4d21e5290434bb889cc07022ddba8",
+        "title": "48连",
+        "attribute": null,
+        "sort": "43",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "2691a2840c244e73996c7c35f2925e57",
+        "title": "49连",
+        "attribute": null,
+        "sort": "44",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "1632a6cb43534baf83715dcd4b0245be",
+      "title": "17营",
+      "attribute": null,
+      "sort": "80",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "2bf1a4eb1f8a4330a6cd425367b126e7",
+        "title": "50连",
+        "attribute": null,
+        "sort": "45",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "8df3e5fb5635449ab7d915e159ce322c",
+        "title": "51连",
+        "attribute": null,
+        "sort": "46",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "42da2905b76c42e9bd51c352222d539d",
+        "title": "52连",
+        "attribute": null,
+        "sort": "47",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "0733eeafa20b430e9c21b157f4919bcc",
+      "title": "18营",
+      "attribute": null,
+      "sort": "81",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "e8c093fa54144f238e122deb54d11c1f",
+        "title": "53连",
+        "attribute": null,
+        "sort": "48",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "007782d579d44ed78c8fa6c7fc062665",
+        "title": "54连",
+        "attribute": null,
+        "sort": "49",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "1a614e85343c42ea903e8b367a64f8ce",
+        "title": "55连",
+        "attribute": null,
+        "sort": "50",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "51c84d31aa3d4914a860856bb3263b43",
+      "title": "19营",
+      "attribute": null,
+      "sort": "82",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "8b8adb1c4bb74c1b8c95df75d374fe1e",
+        "title": "56连",
+        "attribute": null,
+        "sort": "51",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "6d822a00d1284f0d8a51fd6059abcf5f",
+        "title": "57连",
+        "attribute": null,
+        "sort": "52",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "7d5e88450bd3415da914bcd328e6497e",
+        "title": "58连",
+        "attribute": null,
+        "sort": "53",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "ba6cd129aaec4ffbb5c04a1477e64322",
+      "title": "20营",
+      "attribute": null,
+      "sort": "83",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "3d1d8ec9666d4eb08b38f683c1cdbab0",
+        "title": "59连",
+        "attribute": null,
+        "sort": "54",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "bd0cc55056d44194b4221311941475cb",
+        "title": "60连",
+        "attribute": null,
+        "sort": "55",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "8549c4ef71684177aa5f247fbecee84e",
+        "title": "61连",
+        "attribute": null,
+        "sort": "56",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    }]
+  },
+  {
+    "id": "db05f712292d46eda4ab3acc149172d3",
+    "title": "学员6旅",
+    "attribute": null,
+    "sort": "18",
+    "innerid": null,
+    "cameraNum": null,
+    "classcount": 0,
+    "typeid": null,
+    "nodes": [
+    {
+      "id": "49b0b351937a454ab9b85f53eab121a4",
+      "title": "21营",
+      "attribute": null,
+      "sort": "84",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "f1d0d72e0be34af5b1adacc57ee7c138",
+        "title": "62连",
+        "attribute": null,
+        "sort": "57",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "02782497f32f4b1e8e63a01f9151b3ce",
+        "title": "63连",
+        "attribute": null,
+        "sort": "58",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "2335328474f149baaad0469ff26d7fdf",
+        "title": "64连",
+        "attribute": null,
+        "sort": "59",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "102caa7349424b00b75556f0507e31ee",
+      "title": "22营",
+      "attribute": null,
+      "sort": "85",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "95793732d3834e5da9376ed17c050132",
+        "title": "65连",
+        "attribute": null,
+        "sort": "60",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "764886ec733440718e1d770960fbe67e",
+        "title": "66连",
+        "attribute": null,
+        "sort": "61",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "1264de0afcca43f59558067acea779b3",
+        "title": "67连",
+        "attribute": null,
+        "sort": "62",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "b09338bdf66d417d8ab37dddbd0706f1",
+      "title": "23营",
+      "attribute": null,
+      "sort": "86",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "501a7da9dc1c4226940865773ad73a67",
+        "title": "68连",
+        "attribute": null,
+        "sort": "63",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "f876bc3bc77e4cc29b989f7081cfc5ec",
+        "title": "69连",
+        "attribute": null,
+        "sort": "64",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "07dc425b103348b0b3c8c8128bf7ce9a",
+        "title": "70连",
+        "attribute": null,
+        "sort": "65",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      }]
+    },
+    {
+      "id": "98ea0f5b5dc04aeab3755267287aa1df",
+      "title": "24营",
+      "attribute": null,
+      "sort": "87",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": [
+      {
+        "id": "214a86c61ca849f296913962ce2c2078",
+        "title": "71连",
+        "attribute": null,
+        "sort": "66",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": []
+      },
+      {
+        "id": "2ec2de1cfba24e79a0eae0e70cf3d1b7",
+        "title": "72连",
+        "attribute": null,
+        "sort": "67",
+        "innerid": null,
+        "cameraNum": null,
+        "classcount": 0,
+        "typeid": null,
+        "nodes": [
+        {
+          "id": "5ac644e51d2e43c69dce806e7e317e1c",
+          "title": "qw1",
+          "attribute": null,
+          "sort": "1",
+          "innerid": null,
+          "cameraNum": null,
+          "classcount": 0,
+          "typeid": null,
+          "nodes": []
+        },
+        {
+          "id": "8b46a16a01a846dea867e7f71dd26ceb",
+          "title": "qw",
+          "attribute": null,
+          "sort": "22",
+          "innerid": null,
+          "cameraNum": null,
+          "classcount": 0,
+          "typeid": null,
+          "nodes": []
+        },
+        {
+          "id": "90969209126840678b35c08aec17db07",
+          "title": "qw2",
+          "attribute": null,
+          "sort": "22",
+          "innerid": null,
+          "cameraNum": null,
+          "classcount": 0,
+          "typeid": null,
+          "nodes": []
+        },
+        {
+          "id": "d46f51b7526e41b1bc125973637fcbcd",
+          "title": "qw3",
+          "attribute": null,
+          "sort": "22",
+          "innerid": null,
+          "cameraNum": null,
+          "classcount": 0,
+          "typeid": null,
+          "nodes": []
+        }]
+      }]
+    },
+    {
+      "id": "90b9feae504d42b19d1ce32ba50bcaae",
+      "title": "6旅",
+      "attribute": null,
+      "sort": "88",
+      "innerid": null,
+      "cameraNum": null,
+      "classcount": 0,
+      "typeid": null,
+      "nodes": []
+    }]
+  }]
+}]

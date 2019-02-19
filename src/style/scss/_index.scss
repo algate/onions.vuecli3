@@ -1,0 +1,7 @@
+.contentMain{margin:0 auto;overflow: hidden;}
+/* nav样式 */
+.navs-level{padding:20px 0;font-size:0;margin:0 auto;display: inline-block;overflow: hidden;margin:0 auto;}
+.navs-level .btn-level{float:left;width:174px;height:46px;line-height:46px;border:1px solid #e3e3e3;}
+.navs-level .btn-level a{font-size:16px;color:#000;display:block;}
+.navs-level .btn-level a:hover{background: #fff;color:#2dabff;box-shadow: 0 8px 12px rgba(0,120,180,0.3);}
+.navs-level .btn-level .router-link-active{background: #fff;color:#2dabff; box-shadow: 0 8px 12px rgba(0,120,180,0.3);}
