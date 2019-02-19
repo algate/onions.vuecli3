@@ -17,13 +17,13 @@ module.exports = {
         }
     },
     // 设置代理
-    /* devServer: {
+    devServer: {
       // 设置主机地址
       host: 'localhost',
       // 设置默认端口
-      port: 8080,
+      port: 8088,
       // 设置代理
-      proxy: {
+      /* proxy: {
         '/static': {
           // 目标 API 地址
           target: 'http://127.0.0.1:8080/',
@@ -35,8 +35,8 @@ module.exports = {
               '^/static' : 'static'
           }
         }
-      }
-    }, */
+      } */
+    },
     chainWebpack: config => config.resolve.alias
       .set('@', resolve('src'))
       .set('_c', resolve('src/components'))
