@@ -5,7 +5,7 @@ function resolve (dir) {
 }
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-    ? './'
+    ? '/onions.vuecli3/'
     : '/',
     assetsDir: 'assets',
     outputDir: 'docs',
