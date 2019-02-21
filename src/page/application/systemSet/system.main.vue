@@ -20,19 +20,19 @@ export default {
     data() {
         return {
             systemSetNav:[{
-                title:'机构管理',
+                title:'JS',
                 link:'organization',
             },{
-                title:'教师管理',
+                title:'ES6',
                 link:'teacher',
             },{
-                title:'学生管理',
+                title:'TS',
                 link:'student',
             },{
-                title:'角色管理',
+                title:'Deepin',
                 link:'role',
             },{
-                title:'班级管理',
+                title:'Redux',
                 link:'class',
             }]
         }

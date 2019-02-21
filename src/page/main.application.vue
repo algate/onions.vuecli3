@@ -26,15 +26,15 @@ export default {
     data() {
         return {
             applicationNav:[{
-                title:'录播应用',
+                title:'HEXO',
                 icon:'icon_luke',
                 link:'/application/record',
             },{
-                title:'教学应用',
+                title:'VUE',
                 icon:'icon_jiaoxue',
                 link:'/application/teach',
             },{
-                title:'管理应用',
+                title:'REACT',
                 icon:'icon_guanli',
                 link:'/application/manage',
             }]

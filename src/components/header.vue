@@ -10,7 +10,7 @@
                     </router-link>
                 </li>
             </ul>
-            <div class="f_r" style="line-height:150px;height:150px;color:#fff;font-size:14px;">{{user.name?user.name:'Algate'}}</div>
+            <div class="f_r" style="line-height:120px;height:120px;color:#fff;font-size:14px;">{{user.name?user.name:'Onions'}}</div>
         </div>
     </header>
 </template>
@@ -25,27 +25,27 @@ export default {
                 link:'/home'
             },
             {
-                title:'用户空间',
+                title:'前端',
                 icon:'icon_user',
                 link:'/userSpace'
             },
             {
-                title:'课堂直播',
+                title:'工具',
                 icon:'icon_h_live',
                 link:'/live'
             },
             {
-                title:'课程中心',
+                title:'学习',
                 icon:'icon_h_lesson',
                 link:'/lesson'
             },
             {
-                title:'教研活动',
+                title:'要闻',
                 icon:'icon_class',
                 link:'/teaching'
             },
             {
-                title:'平台应用',
+                title:'分类',
                 icon:'icon_application',
                 link:'/application'
             }]

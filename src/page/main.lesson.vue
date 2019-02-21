@@ -18,15 +18,15 @@ export default {
     data() {
         return {
             lessonNav:[{
-                title:'在线课程',
+                title:'COURSE',
                 name:'COURSE ONLINE',
                 link:'/lesson/onlineCourse',
             },{
-                title:'班级课程',
+                title:'CLASS',
                 name:'CLASS CURRICULUM',
                 link:'/lesson/classCurriculum',
             },{
-                title:'精品课程',
+                title:'QUALITY',
                 name:'QUALITY COURSE',
                 link:'/lesson/qualityCourse',
             }]
