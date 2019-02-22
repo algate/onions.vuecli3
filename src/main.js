@@ -13,7 +13,7 @@ import routes from './config/routes'
 // 使用配置文件规则
 const router = new VueRouter({
     // mode: 'history',
-    // base: process.env.BASE_URL,
+    base: process.env.BASE_URL,
     routes: routes
 })
 

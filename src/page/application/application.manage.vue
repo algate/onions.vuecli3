@@ -1,9 +1,9 @@
 <template>
     <div class="application">
         <ul>
-            <li v-for="(manage, index) in applicationManage" v-bind:key="index">
+            <li v-for="manage in applicationManage" v-bind:key="manage.title">
                 <router-link :to="manage.link">
-                    <img :src="manage.src" style="width:100px;height:100px;">
+                    <img :src="manage.src" style="width:180px;height:180px;">
                 </router-link>
             </li>
         </ul>
@@ -22,23 +22,23 @@ export default({
                 src:require('../../assets/img/g2.png'),
                 link:'system/organization',
             },{
-                title:'Onions',
+                title:'Onions1',
                 src:require('../../assets/img/g3.png'),
                 link:'',
             },{
-                title:'Onions',
+                title:'Onions2',
                 src:require('../../assets/img/g4.jpg'),
                 link:'',
             },{
-                title:'Onions',
+                title:'Onions3',
                 src:require('../../assets/img/g6.jpg'),
                 link:'',
             },{
-                title:'Onions',
+                title:'Onions4',
                 src:require('../../assets/img/g9.jpg'),
                 link:'',
             },{
-                title:'Onions',
+                title:'Onions5',
                 src:require('../../assets/img/g10.jpg'),
                 link:'',
             }]

@@ -2,7 +2,7 @@
 .application_main{text-align: center;}
 .system_main{text-align: center;}
 /* application*/
-.application{width:1000px;background-color: #fff;border:1px #e3e3e3 solid;}
-.application ul{overflow: hidden;}
-.application li{width:156px;height:190px;margin:20px 36px;float: left;}
+.application{width:900px;margin:0 auto;background-color: #fff;border:1px #e3e3e3 solid;}
+.application ul{overflow: hidden;padding:8px;}
+.application li{float: left;width: 178px;margin:20px;overflow: hidden;border:1px solid #ccc;border-radius: 90px;}
 .application li:hover{opacity: 0.5;}

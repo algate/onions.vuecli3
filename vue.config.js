@@ -6,7 +6,7 @@ function resolve (dir) {
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
     ? '/vuecli3/'
-    : '/',
+    : '/vuecli3/',
     assetsDir: 'assets',
     outputDir: 'docs',
     configureWebpack: config => {

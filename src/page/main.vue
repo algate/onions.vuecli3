@@ -7,7 +7,6 @@
 <script>
 import headerNav from "../components/header"
 export default {
-    name: 'app',
     components : {
         headerNav
     }

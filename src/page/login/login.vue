@@ -15,6 +15,7 @@
         </div>
     </div>
 </template>
+
 <script>
 import fetchApi from '_conf/services/fetch.services'
 export default {
