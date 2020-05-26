@@ -1,6 +1,9 @@
 import Vue from 'vue'
 /* axios 3.0 */
-import './plugins/axios'
+// import './plugins/axios'
+import Plugin from './plugins/axios'
+Vue.use(Plugin);
+
 import App from './App.vue'
 
 Vue.config.productionTip = false
